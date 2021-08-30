@@ -1,0 +1,29 @@
+.new-design2020 .main-text_section {
+    margin-top: 65px;
+}
+
+.articles-list__card {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.articles-list__card-description {
+    padding-top: 17px;
+}
+
+.articles-list__card-description a {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #555555;
+}
+
+.articles-list__card-img {
+    width: 100%;
+}
+
+.articles-list__card-img img {
+    height: 177px;
+    object-fit: cover;
+}
